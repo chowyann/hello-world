@@ -1,4 +1,3 @@
-# hello-world
 Just another repository
 Type something here
 Today is my first day here.
